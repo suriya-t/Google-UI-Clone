@@ -115,6 +115,7 @@ ul .nav-text {
   cursor: pointer;
 }
 .google-search-input {
+  height: 100%;
   width: 80%;
   font-size: 16px;
   border: none;
